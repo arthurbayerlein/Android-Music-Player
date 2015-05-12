@@ -1,0 +1,5 @@
+C:\Users\thor\AndroidStudioProjects\Orientation\app\build\intermediates\classes\debug
+C:\Users\thor\AndroidStudioProjects\Orientation\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-d698a45daf87d7a1e4025a2d4cb48a008b1a4150.jar
+C:\Users\thor\AndroidStudioProjects\Orientation\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-71e2af299ba899f899aa338ff52852715df7c79f.jar
+C:\Users\thor\AndroidStudioProjects\Orientation\app\build\intermediates\pre-dexed\debug\classes-7f9425f36fe0f8571c26106a1731564f96d8c67e.jar
+C:\Users\thor\AndroidStudioProjects\Orientation\app\build\intermediates\pre-dexed\debug\classes-c31085b9c05cf357efb10b4edd84d998d709352e.jar
